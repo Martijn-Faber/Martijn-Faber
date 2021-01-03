@@ -5,6 +5,10 @@
 
 <h1>Hello world</h1>
 
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" x="50" y="50"/>
+</svg>
+
 <!--
 **Martijn-Faber/Martijn-Faber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
