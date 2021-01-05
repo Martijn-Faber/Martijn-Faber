@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Martijn-Faber&color=000)
+![](https://komarev.com/ghpvc/?username=Martijn-Faber&color=00000)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martijn-Faber&theme=dark&show_icons=true" />
 
