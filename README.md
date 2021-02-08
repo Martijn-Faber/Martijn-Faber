@@ -1,8 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Martijn-Faber&color=dc143c)
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martijn-faber&label=Profile%20views&color=0e75b6&style=flat" alt="martijn-faber" /> </p>
 
 <h3 align="left">Connect with me:</h3>
