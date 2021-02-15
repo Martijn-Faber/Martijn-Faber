@@ -15,7 +15,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martijn-faber&show_icons=true&locale=en" alt="martijn-faber" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martijn-faber&" alt="martijn-faber" /></p>
 
 
 
